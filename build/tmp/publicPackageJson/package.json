@@ -1,0 +1,22 @@
+{
+  "name": "untitled",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "untitled.js",
+  "devDependencies": {
+    "webpack": "5.38.1",
+    "webpack-cli": "4.7.1",
+    "format-util": "1.0.5",
+    "source-map-loader": "3.0.0",
+    "css-loader": "5.2.6",
+    "style-loader": "2.0.0"
+  },
+  "dependencies": {
+    "react": "> 14.0.0 <=16.9.0",
+    "is-sorted": "1.0.5",
+    "react-native-camera-kit": "11.2.1",
+    "mathjs": "9.4.4"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

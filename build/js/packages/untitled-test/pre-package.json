@@ -1,0 +1,21 @@
+{
+  "name": "untitled-test",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kotlin/untitled-test.js",
+  "devDependencies": {},
+  "dependencies": {
+    "untitled": "1.0.0-SNAPSHOT",
+    "kotlin": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin/1.5.10",
+    "kotlin-wrappers-kotlin-react-js-legacy": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin-wrappers-kotlin-react-js-legacy/1.0.0-SNAPSHOT",
+    "kotlin-wrappers-kotlin-extensions-js-legacy": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin-wrappers-kotlin-extensions-js-legacy/1.0.1-pre.206-kotlin-1.5.10",
+    "kotlin-wrappers-kotlin-react-dom-js-legacy": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin-wrappers-kotlin-react-dom-js-legacy/1.0.0-SNAPSHOT",
+    "kotlinx-html-js": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlinx-html-js/0.7.3",
+    "kotlin-wrappers-kotlin-styled-js-legacy": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin-wrappers-kotlin-styled-js-legacy/1.0.0-SNAPSHOT",
+    "kotlin-css": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin-css/1.0.0-pre.206-kotlin-1.5.10",
+    "kotlin-test": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin-test/1.5.10",
+    "kotlin-test-js-runner": "file:/Users/admin/IdeaProjects/untitled/build/js/packages_imported/kotlin-test-js-runner/1.5.10"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

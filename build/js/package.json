@@ -1,0 +1,23 @@
+{
+  "name": "untitled",
+  "version": "1.0-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages/untitled",
+    "packages_imported/kotlin/1.5.30",
+    "packages_imported/kotlin-wrappers-kotlin-react-js-legacy/1.0.0-SNAPSHOT",
+    "packages_imported/kotlin-wrappers-kotlin-extensions-js-legacy/1.0.1-pre.206-kotlin-1.5.10",
+    "packages_imported/kotlin-wrappers-kotlin-react-dom-js-legacy/1.0.0-SNAPSHOT",
+    "packages_imported/kotlinx-html-js/0.7.3",
+    "packages_imported/kotlin-wrappers-kotlin-styled-js-legacy/1.0.0-SNAPSHOT",
+    "packages_imported/kotlin-css/1.0.0-pre.206-kotlin-1.5.10",
+    "packages_imported/kotlin-test-js-runner/1.5.30",
+    "packages_imported/kotlin-test/1.5.30"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
