@@ -1,9 +1,12 @@
 plugins {
     kotlin("js") version "1.5.30"
+    //kotlin('kotlin-android')
+    id("maven-publish")
 }
 
+//group = "me.admin"
 group = "me.admin"
-version = "1.0-SNAPSHOT"
+version = "0.2"
 
 repositories {
     mavenCentral()

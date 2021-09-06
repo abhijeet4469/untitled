@@ -1,6 +1,6 @@
 {
   "name": "untitled-test",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "0.2.0",
   "main": "kotlin/untitled-test.js",
   "devDependencies": {
     "karma": "6.3.3",
