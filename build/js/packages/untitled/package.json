@@ -1,6 +1,6 @@
 {
   "name": "untitled",
-  "version": "0.2.0",
+  "version": "1.0.0-SNAPSHOT",
   "main": "kotlin/untitled.js",
   "devDependencies": {
     "dukat": "0.5.8-rc.4",
